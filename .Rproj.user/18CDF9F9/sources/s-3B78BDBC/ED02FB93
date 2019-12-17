@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576581510929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2064985168",
+    "id" : "ED02FB93",
+    "lastKnownWriteTime" : 1576581514,
+    "last_content_update" : 1576581514305,
+    "path" : "~/old_laptop/apps_old/r_apps/movielens/movielens.Rmd",
+    "project_path" : "movielens.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
